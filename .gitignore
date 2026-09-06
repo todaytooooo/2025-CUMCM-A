@@ -25,3 +25,5 @@ Desktop.ini
 # 缓存 / 日志
 *.log
 .cache/
+
+*.png
